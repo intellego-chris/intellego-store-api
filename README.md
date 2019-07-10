@@ -1,0 +1,1 @@
+# intellego-store-api
